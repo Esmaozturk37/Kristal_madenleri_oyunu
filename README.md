@@ -1085,7 +1085,7 @@ Aptos;mso-hansi-theme-font:minor-latin;mso-char-type:symbol-ext;mso-symbol-font-
 "Segoe UI Emoji"'>&#127918;</span>Projemize Giden Link <o:p></o:p></b></p>
 
 <p class=MsoNormal><b><span style='mso-spacerun:yes'> </span><a
-href="https://esmaozturk37.github.io/Kristal_madenleri_oyunu/"</a><o:p></o:p></b></p>
+href="https://esmaozturk37.github.io/Kristal_madenleri_oyunu/">https://esmaozturk37.github.io/Kristal_madenleri_oyunu/</a><o:p></o:p></b></p>
 
 <p class=MsoNormal><b><o:p>&nbsp;</o:p></b></p>
 
